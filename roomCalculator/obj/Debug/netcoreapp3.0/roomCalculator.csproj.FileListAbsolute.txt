@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\bin\Debug\netcoreapp3.0\roomCalculator.exe
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\bin\Debug\netcoreapp3.0\roomCalculator.deps.json
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\bin\Debug\netcoreapp3.0\roomCalculator.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\bin\Debug\netcoreapp3.0\roomCalculator.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\bin\Debug\netcoreapp3.0\roomCalculator.dll
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\bin\Debug\netcoreapp3.0\roomCalculator.pdb
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\obj\Debug\netcoreapp3.0\roomCalculator.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\obj\Debug\netcoreapp3.0\roomCalculator.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\obj\Debug\netcoreapp3.0\roomCalculator.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\obj\Debug\netcoreapp3.0\roomCalculator.dll
+C:\Users\Prophesy\Documents\C#2019\roomCalculator\roomCalculator\obj\Debug\netcoreapp3.0\roomCalculator.pdb
